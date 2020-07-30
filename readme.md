@@ -1,16 +1,16 @@
-# **Chatbot**
+# **Teacher's Guide**
 
-### **CHATBOT TO ASSIST TEACHERS REGARDING ONLINE CLASSES**
+### **VIDEO TUTORIALS AND CHATBOT TO ASSIST TEACHERS REGARDING ONLINE CLASSES**
 
 Link to Website: [Teacher's Guide](https://ashi-sharma.github.io/Chatbot/)
 
 
 **WHY THIS?**
 
-In this period of COVID teachers especially those who are not usual to the online teaching platforms are facing many problems which can be solved through a chatbot that can answer their each and every query.
+In this period of COVID teachers especially those who are not usual to the online teaching platforms are facing many problems which can be solved through a chatbot that can answer their each and every query efficiently.
 
 
-**WORKING:**
+**WORKING OF CHATBOT:**
 
 - Assisting how to take classes,
 
@@ -29,8 +29,9 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 **FUTURE WORK:**
 
-Adding support for more platforms.
-
+1.Adding support for more platforms.
+2.Using ML and NLP for chatbot.
+3.Improving UI.
 
 **SKILLS/TECH  USED:**
 
@@ -48,4 +49,4 @@ VEDANT GUPTA
 
 **MENTOR:**
 
-DEVANSH
+DEVANSH DUA
