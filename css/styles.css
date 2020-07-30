@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #40514E;
+  margin:0;
 }
 
 hr{
@@ -14,21 +15,26 @@ hr{
 }
 
 h1 {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Montserrat' ;
+  font-weight:bold;
   font-size: 4rem;
   margin: 80px auto 0 auto;
-  color: #66BFBF;
+  color: #5cb85c;
 }
 
 h2 {
   margin: 25px;
-  font-family: 'Montserrat', sans-serif;
-  color: #66BFBF;
+  font-family: 'Ubuntu';
+  color: #5cb85c;
   font-weight: normal;
+  font-size:3.5rem;
+  padding-bottom:15px;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal;
+  color:#7fdbda;
 }
 
 .top_container {
@@ -44,31 +50,31 @@ h3 {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
-  margin: 25px auto 25px auto;
-  padding: 50px 0px 20px;
+  background-color: #5cb85c;
+  padding: 50px 0px 0px;
 }
 
 .upper_cloud {
-  position: absolute;
+  position: relative;
   top: 10%;
   left: 65%;
 }
 
 a{
   color: #11999e;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   margin: 10px 20px;
-  text-decoration: none;
+  font-size: 22px;
+  font-weight: bold;
 }
 
 a:hover
 {
-  color: #eb4559;
+  color: #darkblue;
 }
 
 .lower_cloud {
-  position: absolute;
+  position: relative;
   left: 24%;
   bottom: 50%;
 }
@@ -97,9 +103,10 @@ a:hover
 
 .gen_skills{
   width: 130px;
-  height: 130px;
-  float: right;
-  margin-left: 30px;
+  height: 120px;
+  float: left;
+  margin-left:15px;
+  padding-right:20px;
 }
 
 .profile{
@@ -143,4 +150,75 @@ a:hover
   color: white;
   font-size: 0.75em;
   padding: 10px
+}
+
+.mountain{
+  padding:4% 25%;
+}
+
+#how-to{
+  padding:2% 0;
+  background-color:#dff6f0;
+}
+
+.thanks{
+  color:#7fdbda;
+}
+
+.about{
+  padding:1% 0 5% 0;
+}
+
+.chatbot{
+  width:20%;
+}
+
+.link1{
+  padding-left: 8;
+}
+
+#contact-us{
+  padding:5% 0 5%
+}
+
+.names{
+  font-family: "Montserrat";
+  font-weight: 600;
+  padding:5px 0 5px;
+  color:#5cb85c;
+
+}
+
+.btn{
+  font-family:"Montserrat";
+  font-weight: 600;
+  font-size: 1.5rem;
+  color:#7fdbda;
+}
+
+.ashi-img{
+  width:7%;
+  position: relative;
+  height:20%;
+  border-radius: 100%;
+}
+
+.tanmay-img{
+  width:7%;
+  height:20%;
+  border-radius: 200%;
+}
+
+.vedant-img{
+  width:7%;
+  height:20%;
+  border-radius: 100%;
+}
+p{
+  margin-bottom: 0;
+}
+.tagline{
+  font-size:2rem;
+  color:#fff;
+  padding:1 2 1%;
 }
