@@ -20,8 +20,6 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 - when to switch on video and when to keep it off, how to present screen,
 
-- if someone has stylus/graphic tablet how to use it with screen sharing and writing on the screen,
-
 - how to end meeting,
 
 - how to take tests and assignments using meet and google forms and other free platforms. 
@@ -33,7 +31,9 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 2. Using ML and NLP for chatbot.
 
-3. Improving UI.
+3. How to use stylus/graphic tablet with screen sharing and write on the screen.
+
+4. Improving UI.
 
 **SKILLS/TECH  USED:**
 
