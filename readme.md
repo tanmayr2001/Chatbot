@@ -29,9 +29,11 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 **FUTURE WORK:**
 
-1.Adding support for more platforms.
-2.Using ML and NLP for chatbot.
-3.Improving UI.
+1. Adding support for more platforms.
+
+2. Using ML and NLP for chatbot.
+
+3. Improving UI.
 
 **SKILLS/TECH  USED:**
 
