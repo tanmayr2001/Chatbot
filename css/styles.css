@@ -24,9 +24,9 @@ h1 {
 
 h2 {
   margin: 25px;
-  font-family: 'Ubuntu';
   color: #5cb85c;
   font-weight: normal;
+  font-family: 'Ubuntu';
   font-size:3.5rem;
   padding-bottom:15px;
 }
@@ -193,26 +193,33 @@ a:hover
   font-family:"Montserrat";
   font-weight: 600;
   font-size: 1.5rem;
-  color:#7fdbda;
 }
 
+.aditya-img{
+  width:7%;
+  border-radius: 100%;
+  margin-top: 2%;
+}
 .ashi-img{
   width:7%;
   position: relative;
   height:20%;
   border-radius: 100%;
+  margin-top: 2%;
 }
 
 .tanmay-img{
   width:7%;
   height:20%;
-  border-radius: 200%;
+  border-radius: 100%;
+  margin-top: 2%;
 }
 
 .vedant-img{
   width:7%;
   height:20%;
   border-radius: 100%;
+  margin-top: 2%;
 }
 p{
   margin-bottom: 0;
