@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Video Tutorials</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/video-styles.css">
+  <link rel="icon" href="css/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Merriweather&family=Montserrat:wght@400;700;800&family=Sacramento&family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+  <!-- Navigation Bar -->
+  <nav class="navbar bg-success navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="">Teacher's Guide</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#platforms">Platforms</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="">FAQ</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid" id="video">
+
+    <h1 class="title">Video Player</h1>
+
+    <iframe name="_frame" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  </div>
+  <div class="container-fluid" id="platforms">
+    <h1 class="platforms-title">Supported Platforms</h1>
+
+    <div class="row meet-zoom">
+
+      <img class="meet col-lg-4" src="images/meet.png">
+      <div class="english-hindi ">
+        <h2 class="platform meet-heading" >Google Meet</h2>
+        <a class="btn btn-outline-info btn-lg english-meet" href="https://www.youtube.com/embed/wGXI0KpkR50" target="_frame">English</a>
+        <a class="btn btn-outline-success btn-lg hindi-meet" href="https://www.youtube.com/embed/ohj7RDZCCyY" target="_frame">Hindi</a>
+      </div>
+
+
+      <img class="col-lg-4 zoom" src="images/zoom.png">
+      <div class="english-hindi">
+        <h2 class="platform zoom-heading">Zoom</h2>
+        <a class="btn btn-outline-info btn-lg english-zoom " href="https://www.youtube.com/embed/QOUwumKCW7M" target="_frame"> English </a>
+        <a class="btn btn-outline-success btn-lg hindi-zoom" href="https://www.youtube.com/embed/Bo0l0Qg0wUE" target="_frame">Hindi</a>
+
+      </div>
+
+
+      <div class="row teams-classroom">
+
+        <img class="col-lg-4 teams" src="images/teams.png">
+        <div class="english-hindi">
+          <h2 class="platform teams-heading" >Microsoft Teams</h2>
+          <a class="btn btn-outline-info btn-lg english-teams" href="https://www.youtube.com/embed/OxfukizkyCA" target="_frame">English</a>
+          <a class="btn btn-outline-success btn-lg hindi-teams" href="https://www.youtube.com/embed/f5i5iGQ-Kl0" target="_frame">Hindi</a>
+        </div>
+
+
+
+        <img class="col-lg-4 classroom" src="images/google-classroom.jpg">
+      <div class="english-hindi">
+        <h2 class="platform classroom-heading" >Google Classroom</h2>
+        <a class="btn btn-outline-info btn-lg english-classroom" href="https://www.youtube.com/embed/pl-tBjAM9g4" target="_frame">English</a>
+        <a class="btn btn-outline-success btn-lg hindi-classroom" href="https://www.youtube.com/embed/56od5Xt25Yo" target="_frame">Hindi</a>
+      </div>
+    </div>
+
+  <div class="container-fluid" id="footer">
+    <p class="tagline">Wanna learn something?<br>Start with Hello_World.... :)</p>
+    <p class="copyright">© 2020-Hello_World</p>
+  </div>
+</body>
+
+</html>
